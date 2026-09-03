@@ -15,4 +15,4 @@
 ---
 
 ### 📊 GitHub Stats
-![Trung Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MTrung94&show_icons=true&theme=tokyonight)
+![Trung Minh's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=MTrung94&theme=tokyonight)
